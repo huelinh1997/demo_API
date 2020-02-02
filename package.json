@@ -1,0 +1,22 @@
+{
+  "name": "demo_api",
+  "version": "1.0.0",
+  "description": "fake api testing",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huelinh1997/demo_API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huelinh1997/demo_API/issues"
+  },
+  "homepage": "https://github.com/huelinh1997/demo_API#readme",
+  "dependencies": {
+    "json-server": "^0.15.1"
+  }
+}
