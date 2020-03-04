@@ -1,5 +1,5 @@
 {
-  "movie": [
+  "cinema":   "movie": [
     { "id": 1, 
       "name": "abc", 
       "intro": "bvfvvv", 
@@ -59,7 +59,7 @@
     { "id": 1, "name": "some name", "email": "", "phone": "", "gender": "", "birth": "", "pass": "", "image":"" }
   ],
   "admin":[
-    { "id": 1, "name": "some name","email":"", "pass": "", "image":""}
+    { "id": 1, "name": "admin","email":"admin@123", "pass": "123", "image":""}
   ],
   "reviewMovie": [
     { "id": "", "title": "", "image": "", "content": "", "vote": ""}
